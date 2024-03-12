@@ -6,6 +6,7 @@
     "dev": "node --import tsx ../src/cli/index.ts"
   },
   "dependencies": {
+    "canvas": "^2.11.2",
     "frog": "workspace:*",
     "hono": "^4"
   },
